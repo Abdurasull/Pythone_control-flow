@@ -1,4 +1,3 @@
-matn = input("Matinni kiriting: ")
+matn = input("Matinni kiriting: ")#matn nomli o`zgarivchimizga qiymat ta`minlaymiz
 
-for i in matn :
-    print(i.upper(), sep="", end="")
+print(matn.upper())#matn har bir belgisini katta harfga o`zgartiramiz

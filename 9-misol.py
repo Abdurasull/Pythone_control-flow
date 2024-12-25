@@ -5,3 +5,10 @@ while number:#while loop orqali o`zigacha bo`lgan barcha sonlarni yig`indisini h
     s+=number#S nomli obyektimizga numberni boshlang`ich qiymatidan boshlab qo`shib boramiz
     number-=1#har bitta sikilimizda number ni 1 ga kamaytirib boramiz
 print("result {} ".format(s))#va loop to`gagandan kn natijani ekranga chop etamiz
+
+
+#bu erda esa for loop orqali ham ko`rinishi
+#for i in range(1, number + 1):
+#    s+=i
+#print("result {} ".format(s))
+#
